@@ -16,13 +16,14 @@
 | 📱 | ```apk.union.ru.net``` | Мобильные приложения |
 | 📺 | ```atv.union.ru.net``` | Android TV приложения |
 ---
-| Приложение | Скачиваний |
-| ---------- | ---------- |
-| AyuGram | ![GitHub Downloads](https://img.shields.io/github/downloads/maksim-ignatov/ayugram/total) |
-| X-plore (mod) | ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/maksim-ignatov/x-plore/total) |
-| RBTV+ (mod) | ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/maksim-ignatov/rbtv-plus/total) |
-| tTorrent (mod) | ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/maksim-ignatov/ttorrent/total) |
-| TrueCaller (mod) | ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/maksim-ignatov/truecaller/total) |
+Неполный список что внутри `apk.union.ru.net`:
+| Приложение | Версия | Скачиваний |
+| ---------- | ------ | ---------- |
+| AyuGram | ![GitHub Tag](https://img.shields.io/github/v/tag/maksim-ignatov/ayugram) | ![GitHub Downloads](https://img.shields.io/github/downloads/maksim-ignatov/ayugram/total) |
+| X-plore (mod) | ![GitHub Tag](https://img.shields.io/github/v/tag/maksim-ignatov/x-plore) | ![GitHub Downloads](https://img.shields.io/github/downloads/maksim-ignatov/x-plore/total) |
+| RBTV+ (mod) | ![GitHub Tag](https://img.shields.io/github/v/tag/maksim-ignatov/rbtv-plus) | ![GitHub Downloads](https://img.shields.io/github/downloads/maksim-ignatov/rbtv-plus/total) |
+| tTorrent (mod) | ![GitHub Tag](https://img.shields.io/github/v/tag/maksim-ignatov/ttorrent) | ![GitHub Downloads](https://img.shields.io/github/downloads/maksim-ignatov/ttorrent/total) |
+| TrueCaller (mod) | ![GitHub Tag](https://img.shields.io/github/v/tag/maksim-ignatov/truecaller) | ![GitHub Downloads](https://img.shields.io/github/downloads/maksim-ignatov/truecaller/total) |
 
 Скриншоты:
 | ![](screenshots/photo_2025-12-13_17-43-50.jpg) | ![](screenshots/photo_2025-12-13_18-19-33.jpg) | ![](screenshots/photo_2025-12-13_18-20-15.jpg) |
