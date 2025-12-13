@@ -11,7 +11,7 @@
 |:---------:|-------------------|----------|
 | 📱 | ```apk.union.ru.net``` | Мобильные приложения |
 | 📺 | ```atv.union.ru.net``` | Android TV приложения |
-
+---
 | Приложение | Скачиваний |
 | ---------- | ---------- |
 | AyuGram | ![GitHub Downloads](https://img.shields.io/github/downloads/maksim-ignatov/ayugram/total) |
