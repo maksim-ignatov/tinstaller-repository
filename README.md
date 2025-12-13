@@ -21,5 +21,5 @@
 | TrueCaller (mod) | ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/maksim-ignatov/truecaller/total) |
 
 Скриншоты:
-| ![](screenshots/photo_2025-12-13_17-43-50.jpg) | ![](screenshots/photo_2025-12-13_14-12-26.jpg) |
-|:-------:|:-------:|
+| ![](screenshots/photo_2025-12-13_17-43-50.jpg) | ![](screenshots/photo_2025-12-13_18-19-33.jpg) | ![](screenshots/photo_2025-12-13_18-20-15.jpg) |
+|:-------:|:-------:|:-------:|
