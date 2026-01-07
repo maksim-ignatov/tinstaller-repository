@@ -28,6 +28,7 @@ Tinstaller можно использовать не только для теле
 | RBTV+ (mod) | ![GitHub Tag](https://img.shields.io/github/v/tag/maksim-ignatov/rbtv-plus) | ![GitHub Downloads](https://img.shields.io/github/downloads/maksim-ignatov/rbtv-plus/total) |
 | tTorrent (mod) | ![GitHub Tag](https://img.shields.io/github/v/tag/maksim-ignatov/ttorrent) | ![GitHub Downloads](https://img.shields.io/github/downloads/maksim-ignatov/ttorrent/total) |
 | TrueCaller (mod) | ![GitHub Tag](https://img.shields.io/github/v/tag/maksim-ignatov/truecaller) | ![GitHub Downloads](https://img.shields.io/github/downloads/maksim-ignatov/truecaller/total) |
+| RBTV+ ATV (mod) | ![GitHub Tag](https://img.shields.io/github/v/tag/maksim-ignatov/rbtv-plus-atv) | ![GitHub Downloads](https://img.shields.io/github/downloads/maksim-ignatov/rbtv-plus-atv/total) |
 
 Скриншоты:
 | ![](screenshots/photo_2025-12-13_17-43-50.jpg) | ![](screenshots/photo_2025-12-13_18-19-33.jpg) | ![](screenshots/photo_2025-12-13_18-20-15.jpg) |
