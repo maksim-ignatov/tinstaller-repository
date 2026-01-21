@@ -17,6 +17,7 @@
 | 📺 | ```atv.union.ru.net``` | [Android TV приложения](#atv) |
 ---
 ## <a id="apk">Приложения для смартфона</a>
+[![Better Stack Badge](https://uptime.betterstack.com/status-badges/v2/monitor/2dh1k.svg)](https://uptime.betterstack.com/?utm_source=status_badge)
 
 Tinstaller можно использовать не только для телевизора, но и для смартфона.
 
