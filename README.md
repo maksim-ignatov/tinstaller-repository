@@ -22,14 +22,14 @@
 Tinstaller можно использовать не только для телевизора, но и для смартфона.
 
 Неполный список что внутри `apk.union.ru.net`:
-| Приложение | Версия | Скачиваний |
-| ---------- | ------ | ---------- |
-| AyuGram | ![GitHub Tag](https://img.shields.io/github/v/tag/maksim-ignatov/ayugram) | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/AyuGram.json) |
-| X-plore (mod) | ![GitHub Tag](https://img.shields.io/github/v/tag/maksim-ignatov/x-plore) | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/X-plore.json) |
-| RBTV+ (mod) | ![GitHub Tag](https://img.shields.io/github/v/tag/maksim-ignatov/rbtv-plus) | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/RBTV-plus.json) |
-| tTorrent (mod) | ![GitHub Tag](https://img.shields.io/github/v/tag/maksim-ignatov/ttorrent) | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/tTorrent.json) |
-| TrueCaller (mod) | ![GitHub Tag](https://img.shields.io/github/v/tag/maksim-ignatov/truecaller) | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/TrueCaller.json) |
-| RBTV+ ATV (mod) | ![GitHub Tag](https://img.shields.io/github/v/tag/maksim-ignatov/rbtv-plus-atv) | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/RBTV-plus-ATV.json) |
+| Приложение | Скачиваний |
+| ---------- | ---------- |
+| AyuGram | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/AyuGram.json) |
+| X-plore (mod) | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/X-plore.json) |
+| RBTV+ (mod) | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/RBTV-plus.json) |
+| tTorrent (mod) | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/tTorrent.json) |
+| TrueCaller (mod) | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/TrueCaller.json) |
+| RBTV+ ATV (mod) | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/RBTV-plus-ATV.json) |
 
 Скриншоты:
 | ![](screenshots/screen1.jpg) | ![](screenshots/screen2.jpg) | ![](screenshots/screen3.jpg) |
