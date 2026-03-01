@@ -31,6 +31,9 @@ Tinstaller можно использовать не только для теле
 | TrueCaller (mod) | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/TrueCaller.json) |
 | RBTV+ ATV (mod) | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/RBTV-plus-ATV.json) |
 
+[См. полный список приложений](applications/README.md)
+
+---
 Скриншоты:
 | ![](screenshots/screen1.jpg) | ![](screenshots/screen2.jpg) | ![](screenshots/screen3.jpg) |
 |:-------:|:-------:|:-------:|
