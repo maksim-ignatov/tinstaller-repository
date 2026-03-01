@@ -1,15 +1,15 @@
 # Applications — download stats
 
-Updated: `2026-03-01 18:56 UTC` | Total downloads: **168**
+Updated: `2026-03-01 12:00 UTC` | Total downloads: **160**
 
 | # | Application | Downloads | Last seen |
 |---|-------------|-----------|-----------|
-| 1 | `TorrServe_MatriX.apk` | 22 | 2026-03-01 |
+| 1 | `TorrServe_MatriX.apk` | 21 | 2026-03-01 |
 | 2 | `TInstaller.Clone.apk` | 20 | 2026-03-01 |
-| 3 | `fcm-ayuGram.apk` | 14 | 2026-03-01 |
-| 4 | `NUM.apk` | 12 | 2026-03-01 |
-| 5 | `MX+Player.apk` | 10 | 2026-03-01 |
-| 6 | `Tricolor.apk` | 10 | 2026-02-27 |
+| 3 | `NUM.apk` | 11 | 2026-03-01 |
+| 4 | `fcm-ayuGram.apk` | 10 | 2026-03-01 |
+| 5 | `Tricolor.apk` | 10 | 2026-02-27 |
+| 6 | `MX+Player.apk` | 9 | 2026-02-23 |
 | 7 | `RBTVPLUS.apk` | 7 | 2026-02-28 |
 | 8 | `lmd.apk` | 7 | 2026-03-01 |
 | 9 | `RBTVPLUS.ATV.apk` | 6 | 2026-03-01 |
@@ -22,11 +22,11 @@ Updated: `2026-03-01 18:56 UTC` | Total downloads: **168**
 | 16 | `Magisk.apk` | 4 | 2026-03-01 |
 | 17 | `v2rayNG_universal.apk` | 3 | 2026-02-18 |
 | 18 | `Neo_Backup.apk` | 3 | 2026-02-27 |
-| 19 | `ByeByeDPI.apk` | 3 | 2026-03-01 |
-| 20 | `tTorrent.apk` | 3 | 2026-02-28 |
-| 21 | `pcradio.apk` | 3 | 2026-02-26 |
-| 22 | `AppGallery.apk` | 3 | 2026-02-27 |
-| 23 | `app.revanced.android.gms-240913008-signed.apk` | 2 | 2026-02-22 |
+| 19 | `tTorrent.apk` | 3 | 2026-02-28 |
+| 20 | `pcradio.apk` | 3 | 2026-02-26 |
+| 21 | `AppGallery.apk` | 3 | 2026-02-27 |
+| 22 | `app.revanced.android.gms-240913008-signed.apk` | 2 | 2026-02-22 |
+| 23 | `ByeByeDPI.apk` | 2 | 2026-02-27 |
 | 24 | `AdAway.apk` | 2 | 2026-02-28 |
 | 25 | `RuStore.apk` | 1 | 2026-02-23 |
 | 26 | `VK.apk` | 1 | 2026-02-23 |
