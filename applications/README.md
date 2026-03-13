@@ -1,13 +1,13 @@
 # Applications — download stats
 
-Updated: `2026-03-13 11:55 UTC` | Total downloads: **346**
+Updated: `2026-03-13 19:56 UTC` | Total downloads: **347**
 
 | # | Application | Downloads | Last seen |
 |---|-------------|-----------|-----------|
 | 1 | `AdAway.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/AdAway.apk.json) | 2026-03-09 |
 | 2 | `app.revanced.android.gms-240913008-signed.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/app.revanced.android.gms-240913008-signed.apk.json) | 2026-02-22 |
 | 3 | `AppGallery.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/AppGallery.apk.json) | 2026-03-11 |
-| 4 | `ByeByeDPI.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/ByeByeDPI.apk.json) | 2026-03-12 |
+| 4 | `ByeByeDPI.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/ByeByeDPI.apk.json) | 2026-03-13 |
 | 5 | `CamScanner.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/CamScanner.apk.json) | 2026-03-07 |
 | 6 | `default.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/default.apk.json) | 2026-03-12 |
 | 7 | `fatsecret.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/fatsecret.apk.json) | 2026-03-07 |
