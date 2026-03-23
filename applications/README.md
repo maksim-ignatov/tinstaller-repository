@@ -1,13 +1,13 @@
 # Applications — download stats
 
-Updated: `2026-03-23 20:18 UTC` | Total downloads: **460**
+Updated: `2026-03-23 21:19 UTC` | Total downloads: **467**
 
 | # | Application | Downloads | Last seen |
 |---|-------------|-----------|-----------|
 | 1 | `AdAway.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/AdAway.apk.json) | 2026-03-14 |
 | 2 | `app.revanced.android.gms-240913008-signed.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/app.revanced.android.gms-240913008-signed.apk.json) | 2026-03-22 |
 | 3 | `AppGallery.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/AppGallery.apk.json) | 2026-03-14 |
-| 4 | `ByeByeDPI.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/ByeByeDPI.apk.json) | 2026-03-19 |
+| 4 | `ByeByeDPI.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/ByeByeDPI.apk.json) | 2026-03-23 |
 | 5 | `CamScanner.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/CamScanner.apk.json) | 2026-03-07 |
 | 6 | `default.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/default.apk.json) | 2026-03-23 |
 | 7 | `fatsecret.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/fatsecret.apk.json) | 2026-03-14 |
@@ -34,7 +34,7 @@ Updated: `2026-03-23 20:18 UTC` | Total downloads: **460**
 | 28 | `TInstaller.Clone.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/TInstaller.Clone.apk.json) | 2026-03-23 |
 | 29 | `TorrServe_MatriX.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/TorrServe_MatriX.apk.json) | 2026-03-23 |
 | 30 | `Tricolor.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/Tricolor.apk.json) | 2026-03-14 |
-| 31 | `Truecaller.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/Truecaller.apk.json) | 2026-03-14 |
+| 31 | `Truecaller.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/Truecaller.apk.json) | 2026-03-23 |
 | 32 | `tTorrent.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/tTorrent.apk.json) | 2026-03-19 |
 | 33 | `v2rayNG_universal.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/v2rayNG_universal.apk.json) | 2026-03-14 |
 | 34 | `vanced.to_revanced_manager_plus.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/vanced.to_revanced_manager_plus.apk.json) | 2026-03-23 |
