@@ -1,6 +1,6 @@
 # Applications — download stats
 
-Updated: `2026-04-18 10:50 UTC` | Total downloads: **628**
+Updated: `2026-04-18 11:51 UTC` | Total downloads: **629**
 
 | # | Application | Downloads | Last seen |
 |---|-------------|-----------|-----------|
@@ -26,7 +26,7 @@ Updated: `2026-04-18 10:50 UTC` | Total downloads: **628**
 | 20 | `pcradio.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/pcradio.apk.json) | 2026-04-17 |
 | 21 | `Perplexity.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/Perplexity.apk.json) | 2026-04-12 |
 | 22 | `RAR.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/RAR.apk.json) | 2026-04-17 |
-| 23 | `RBTVPLUS.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/RBTVPLUS.apk.json) | 2026-04-14 |
+| 23 | `RBTVPLUS.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/RBTVPLUS.apk.json) | 2026-04-18 |
 | 24 | `RBTVPLUS.ATV.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/RBTVPLUS.ATV.apk.json) | 2026-04-17 |
 | 25 | `RuStore.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/RuStore.apk.json) | 2026-04-11 |
 | 26 | `Rutube.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/Rutube.apk.json) | 2026-04-17 |
