@@ -1,6 +1,6 @@
 # Applications — download stats
 
-Updated: `2026-04-27 18:14 UTC` | Total downloads: **2178**
+Updated: `2026-04-28 06:14 UTC` | Total downloads: **2179**
 
 | # | Application | Downloads | Last seen |
 |---|-------------|-----------|-----------|
@@ -16,7 +16,7 @@ Updated: `2026-04-27 18:14 UTC` | Total downloads: **2178**
 | 10 | `Happ.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/Happ.apk.json) | 2026-04-25 |
 | 11 | `KION_ATV_arm7a.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/KION_ATV_arm7a.apk.json) | 2026-04-27 |
 | 12 | `LampaS.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/LampaS.apk.json) | 2026-04-25 |
-| 13 | `lmd.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/lmd.apk.json) | 2026-04-25 |
+| 13 | `lmd.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/lmd.apk.json) | 2026-04-28 |
 | 14 | `Lucky.Patcher.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/Lucky.Patcher.apk.json) | 2026-04-26 |
 | 15 | `Magisk.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/Magisk.apk.json) | 2026-04-27 |
 | 16 | `moonreaderp-arm64.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/moonreaderp-arm64.apk.json) | 2026-04-27 |
