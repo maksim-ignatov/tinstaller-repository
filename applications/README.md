@@ -1,6 +1,6 @@
 # Applications — download stats
 
-Updated: `2026-05-01 01:29 UTC` | Total downloads: **2223**
+Updated: `2026-05-01 05:29 UTC` | Total downloads: **2227**
 
 | # | Application | Downloads | Last seen |
 |---|-------------|-----------|-----------|
@@ -15,12 +15,12 @@ Updated: `2026-05-01 01:29 UTC` | Total downloads: **2223**
 | 9 | `FDE.AI.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/FDE.AI.apk.json) | 2026-04-27 |
 | 10 | `Happ.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/Happ.apk.json) | 2026-04-29 |
 | 11 | `KION_ATV_arm7a.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/KION_ATV_arm7a.apk.json) | 2026-04-27 |
-| 12 | `LampaS.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/LampaS.apk.json) | 2026-04-29 |
+| 12 | `LampaS.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/LampaS.apk.json) | 2026-05-01 |
 | 13 | `lmd.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/lmd.apk.json) | 2026-04-28 |
 | 14 | `Lucky.Patcher.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/Lucky.Patcher.apk.json) | 2026-04-30 |
 | 15 | `Magisk.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/Magisk.apk.json) | 2026-04-27 |
 | 16 | `moonreaderp-arm64.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/moonreaderp-arm64.apk.json) | 2026-04-29 |
-| 17 | `MX+Player.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/MX%2BPlayer.apk.json) | 2026-04-29 |
+| 17 | `MX+Player.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/MX%2BPlayer.apk.json) | 2026-05-01 |
 | 18 | `Naptime.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/Naptime.apk.json) | 2026-04-27 |
 | 19 | `Neo_Backup.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/Neo_Backup.apk.json) | 2026-04-30 |
 | 20 | `Nextcloud.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/Nextcloud.apk.json) | 2026-04-27 |
@@ -34,7 +34,7 @@ Updated: `2026-05-01 01:29 UTC` | Total downloads: **2223**
 | 28 | `Rutube.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/Rutube.apk.json) | 2026-04-27 |
 | 29 | `RutubeTv.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/RutubeTv.apk.json) | 2026-04-25 |
 | 30 | `Swift_Backup.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/Swift_Backup.apk.json) | 2026-04-20 |
-| 31 | `TInstaller.Clone.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/TInstaller.Clone.apk.json) | 2026-04-29 |
+| 31 | `TInstaller.Clone.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/TInstaller.Clone.apk.json) | 2026-05-01 |
 | 32 | `TorrServe_MatriX.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/TorrServe_MatriX.apk.json) | 2026-04-20 |
 | 33 | `Tricolor.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/Tricolor.apk.json) | 2026-04-27 |
 | 34 | `Truecaller.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/Truecaller.apk.json) | 2026-04-20 |
