@@ -1,6 +1,6 @@
 # Applications — download stats
 
-Updated: `2026-05-01 05:29 UTC` | Total downloads: **2227**
+Updated: `2026-05-01 10:30 UTC` | Total downloads: **2228**
 
 | # | Application | Downloads | Last seen |
 |---|-------------|-----------|-----------|
@@ -18,7 +18,7 @@ Updated: `2026-05-01 05:29 UTC` | Total downloads: **2227**
 | 12 | `LampaS.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/LampaS.apk.json) | 2026-05-01 |
 | 13 | `lmd.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/lmd.apk.json) | 2026-04-28 |
 | 14 | `Lucky.Patcher.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/Lucky.Patcher.apk.json) | 2026-04-30 |
-| 15 | `Magisk.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/Magisk.apk.json) | 2026-04-27 |
+| 15 | `Magisk.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/Magisk.apk.json) | 2026-05-01 |
 | 16 | `moonreaderp-arm64.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/moonreaderp-arm64.apk.json) | 2026-04-29 |
 | 17 | `MX+Player.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/MX%2BPlayer.apk.json) | 2026-05-01 |
 | 18 | `Naptime.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/Naptime.apk.json) | 2026-04-27 |
