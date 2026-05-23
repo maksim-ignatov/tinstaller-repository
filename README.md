@@ -4,7 +4,7 @@
 > 
 > Скачать сам TInstaller можно по ссылке с моего домена - https://t.union.ru.net , либо из открытых источников, либо кнопкой ниже.
 > 
-> [![Download APK](https://img.shields.io/badge/Download-TInstaller.apk-blue?style=for-the-badge&logo=android)](https://github.com/maksim-ignatov/tinstaller-repository/releases/download/latest/TInstaller.apk)
+> [![Download APK](https://img.shields.io/badge/Download-TInstaller.apk-blue?style=for-the-badge&logo=android)](https://github.com/maksim-ignatov/tinstaller/releases/download/latest/tinstaller.fork.universal.apk)
 >
 > Коротко, что это за приложение:
 > 
