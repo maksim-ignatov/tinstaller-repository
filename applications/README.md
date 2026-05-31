@@ -1,6 +1,6 @@
 # Applications — download stats
 
-Updated: `2026-05-31 10:22 UTC` | Total downloads: **3305**
+Updated: `2026-05-31 11:22 UTC` | Total downloads: **3308**
 
 | # | Application | Downloads | Last seen |
 |---|-------------|-----------|-----------|
@@ -32,7 +32,7 @@ Updated: `2026-05-31 10:22 UTC` | Total downloads: **3305**
 | 26 | `RBTVPLUS.ATV.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/RBTVPLUS.ATV.apk.json) | 2026-05-30 |
 | 27 | `RuStore.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/RuStore.apk.json) | 2026-05-31 |
 | 28 | `Rutube.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/Rutube.apk.json) | 2026-05-25 |
-| 29 | `RutubeTv.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/RutubeTv.apk.json) | 2026-05-30 |
+| 29 | `RutubeTv.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/RutubeTv.apk.json) | 2026-05-31 |
 | 30 | `Swift_Backup.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/Swift_Backup.apk.json) | 2026-05-11 |
 | 31 | `TInstaller.Clone.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/TInstaller.Clone.apk.json) | 2026-05-24 |
 | 32 | `tinstaller.clone.universal.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/tinstaller.clone.universal.apk.json) | 2026-05-31 |
@@ -42,9 +42,9 @@ Updated: `2026-05-31 10:22 UTC` | Total downloads: **3305**
 | 36 | `Truecaller.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/Truecaller.apk.json) | 2026-05-25 |
 | 37 | `tTorrent.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/tTorrent.apk.json) | 2026-05-28 |
 | 38 | `v2rayNG_universal.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/v2rayNG_universal.apk.json) | 2026-05-30 |
-| 39 | `vanced.to_revanced_manager_plus.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/vanced.to_revanced_manager_plus.apk.json) | 2026-05-30 |
+| 39 | `vanced.to_revanced_manager_plus.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/vanced.to_revanced_manager_plus.apk.json) | 2026-05-31 |
 | 40 | `vanilla-ayuGram-full-universal.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/vanilla-ayuGram-full-universal.apk.json) | 2026-05-24 |
-| 41 | `VK.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/VK.apk.json) | 2026-05-28 |
+| 41 | `VK.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/VK.apk.json) | 2026-05-31 |
 | 42 | `VK.Video.TV.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/VK.Video.TV.apk.json) | 2026-05-29 |
 | 43 | `X-plore.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/X-plore.apk.json) | 2026-05-28 |
 | 44 | `xManager.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/xManager.apk.json) | 2026-05-30 |
