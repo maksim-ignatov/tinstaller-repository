@@ -1,6 +1,6 @@
 # Applications — download stats
 
-Updated: `2026-06-01 07:29 UTC` | Total downloads: **3352**
+Updated: `2026-06-01 13:30 UTC` | Total downloads: **3353**
 
 | # | Application | Downloads | Last seen |
 |---|-------------|-----------|-----------|
@@ -47,5 +47,5 @@ Updated: `2026-06-01 07:29 UTC` | Total downloads: **3352**
 | 41 | `VK.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/VK.apk.json) | 2026-05-31 |
 | 42 | `VK.Video.TV.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/VK.Video.TV.apk.json) | 2026-05-29 |
 | 43 | `X-plore.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/X-plore.apk.json) | 2026-05-31 |
-| 44 | `xManager.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/xManager.apk.json) | 2026-05-31 |
+| 44 | `xManager.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/xManager.apk.json) | 2026-06-01 |
 | 45 | `yandex.mail.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/yandex.mail.apk.json) | 2026-05-11 |
