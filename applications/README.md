@@ -1,6 +1,6 @@
 # Applications — download stats
 
-Updated: `2026-06-20 08:16 UTC` | Total downloads: **4950**
+Updated: `2026-06-20 12:17 UTC` | Total downloads: **4952**
 
 | # | Application | Downloads | Last seen |
 |---|-------------|-----------|-----------|
@@ -29,7 +29,7 @@ Updated: `2026-06-20 08:16 UTC` | Total downloads: **4950**
 | 23 | `pcradio.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/pcradio.apk.json) | 2026-06-19 |
 | 24 | `Perplexity.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/Perplexity.apk.json) | 2026-06-18 |
 | 25 | `RAR.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/RAR.apk.json) | 2026-06-05 |
-| 26 | `RBTVPLUS.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/RBTVPLUS.apk.json) | 2026-06-18 |
+| 26 | `RBTVPLUS.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/RBTVPLUS.apk.json) | 2026-06-20 |
 | 27 | `RBTVPLUS.ATV.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/RBTVPLUS.ATV.apk.json) | 2026-06-07 |
 | 28 | `RuStore.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/RuStore.apk.json) | 2026-06-18 |
 | 29 | `Rutube.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/Rutube.apk.json) | 2026-06-20 |
@@ -43,7 +43,7 @@ Updated: `2026-06-20 08:16 UTC` | Total downloads: **4950**
 | 37 | `Truecaller.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/Truecaller.apk.json) | 2026-06-18 |
 | 38 | `tTorrent.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/tTorrent.apk.json) | 2026-06-14 |
 | 39 | `v2rayNG_universal.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/v2rayNG_universal.apk.json) | 2026-06-10 |
-| 40 | `vanced.to_revanced_manager_plus.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/vanced.to_revanced_manager_plus.apk.json) | 2026-06-12 |
+| 40 | `vanced.to_revanced_manager_plus.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/vanced.to_revanced_manager_plus.apk.json) | 2026-06-20 |
 | 41 | `vanilla-ayuGram-full-universal.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/vanilla-ayuGram-full-universal.apk.json) | 2026-06-19 |
 | 42 | `VK.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/VK.apk.json) | 2026-06-18 |
 | 43 | `VK.Video.TV.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/VK.Video.TV.apk.json) | 2026-06-17 |
