@@ -1,19 +1,19 @@
 # Applications — download stats
 
-Updated: `2026-07-25 22:26 UTC` | Total downloads: **8259**
+Updated: `2026-07-26 05:27 UTC` | Total downloads: **8266**
 
 | # | Application | Downloads | Last seen |
 |---|-------------|-----------|-----------|
 | 1 | `AdAway.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/AdAway.apk.json) | 2026-07-07 |
 | 2 | `app.revanced.android.gms-240913008-signed.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/app.revanced.android.gms-240913008-signed.apk.json) | 2026-07-21 |
-| 3 | `AppGallery.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/AppGallery.apk.json) | 2026-07-21 |
+| 3 | `AppGallery.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/AppGallery.apk.json) | 2026-07-26 |
 | 4 | `ByeByeDPI.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/ByeByeDPI.apk.json) | 2026-07-25 |
 | 5 | `CamScanner.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/CamScanner.apk.json) | 2026-07-12 |
 | 6 | `default.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/default.apk.json) | 2026-07-25 |
 | 7 | `fatsecret.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/fatsecret.apk.json) | 2026-07-25 |
 | 8 | `fcm-ayuGram.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/fcm-ayuGram.apk.json) | 2026-07-21 |
 | 9 | `FDE.AI.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/FDE.AI.apk.json) | 2026-07-07 |
-| 10 | `FreeZona.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/FreeZona.apk.json) | 2026-07-25 |
+| 10 | `FreeZona.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/FreeZona.apk.json) | 2026-07-26 |
 | 11 | `Happ.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/Happ.apk.json) | 2026-07-20 |
 | 12 | `KION_ATV_arm7a.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/KION_ATV_arm7a.apk.json) | 2026-07-24 |
 | 13 | `LampaS.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/LampaS.apk.json) | 2026-07-21 |
@@ -22,11 +22,11 @@ Updated: `2026-07-25 22:26 UTC` | Total downloads: **8259**
 | 16 | `Lucky.Patcher.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/Lucky.Patcher.apk.json) | 2026-07-11 |
 | 17 | `Magisk.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/Magisk.apk.json) | 2026-07-14 |
 | 18 | `moonreaderp-arm64.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/moonreaderp-arm64.apk.json) | 2026-07-16 |
-| 19 | `MX+Player.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/MX%2BPlayer.apk.json) | 2026-07-21 |
+| 19 | `MX+Player.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/MX%2BPlayer.apk.json) | 2026-07-26 |
 | 20 | `Naptime.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/Naptime.apk.json) | 2026-07-20 |
 | 21 | `Neo_Backup.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/Neo_Backup.apk.json) | 2026-06-27 |
 | 22 | `Nextcloud.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/Nextcloud.apk.json) | 2026-07-25 |
-| 23 | `NUM.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/NUM.apk.json) | 2026-07-21 |
+| 23 | `NUM.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/NUM.apk.json) | 2026-07-26 |
 | 24 | `pcradio.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/pcradio.apk.json) | 2026-07-11 |
 | 25 | `Perplexity.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/Perplexity.apk.json) | 2026-07-25 |
 | 26 | `RAR.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/RAR.apk.json) | 2026-07-25 |
@@ -39,7 +39,7 @@ Updated: `2026-07-25 22:26 UTC` | Total downloads: **8259**
 | 33 | `TInstaller.Clone.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/TInstaller.Clone.apk.json) | 2026-06-22 |
 | 34 | `tinstaller.clone.universal.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/tinstaller.clone.universal.apk.json) | 2026-07-25 |
 | 35 | `tinstaller.fork.universal.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/tinstaller.fork.universal.apk.json) | 2026-07-23 |
-| 36 | `TorrServe_MatriX.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/TorrServe_MatriX.apk.json) | 2026-07-23 |
+| 36 | `TorrServe_MatriX.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/TorrServe_MatriX.apk.json) | 2026-07-26 |
 | 37 | `Tricolor.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/Tricolor.apk.json) | 2026-07-03 |
 | 38 | `Truecaller.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/Truecaller.apk.json) | 2026-07-22 |
 | 39 | `tTorrent.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/tTorrent.apk.json) | 2026-07-14 |
