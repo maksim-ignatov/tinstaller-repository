@@ -1,6 +1,6 @@
 # Applications — download stats
 
-Updated: `2026-08-08 11:48 UTC` | Total downloads: **8655**
+Updated: `2026-08-08 12:49 UTC` | Total downloads: **8657**
 
 | # | Application | Downloads | Last seen |
 |---|-------------|-----------|-----------|
