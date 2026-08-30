@@ -1,6 +1,6 @@
 # Applications — download stats
 
-Updated: `2026-08-30 09:52 UTC` | Total downloads: **9326**
+Updated: `2026-08-30 10:53 UTC` | Total downloads: **9329**
 
 | # | Application | Downloads | Last seen |
 |---|-------------|-----------|-----------|
@@ -26,7 +26,7 @@ Updated: `2026-08-30 09:52 UTC` | Total downloads: **9326**
 | 20 | `Naptime.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/Naptime.apk.json) | 2026-08-17 |
 | 21 | `Neo_Backup.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/Neo_Backup.apk.json) | 2026-08-17 |
 | 22 | `Nextcloud.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/Nextcloud.apk.json) | 2026-08-17 |
-| 23 | `NUM.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/NUM.apk.json) | 2026-08-29 |
+| 23 | `NUM.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/NUM.apk.json) | 2026-08-30 |
 | 24 | `pcradio.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/pcradio.apk.json) | 2026-08-29 |
 | 25 | `Perplexity.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/Perplexity.apk.json) | 2026-08-17 |
 | 26 | `RAR.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/RAR.apk.json) | 2026-08-28 |
