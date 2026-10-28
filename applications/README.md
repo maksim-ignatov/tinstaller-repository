@@ -1,12 +1,12 @@
 # Applications — download stats
 
-Updated: `2026-10-28 01:10 UTC` | Total downloads: **10629**
+Updated: `2026-10-28 02:11 UTC` | Total downloads: **10631**
 
 | # | Application | Downloads | Last seen |
 |---|-------------|-----------|-----------|
 | 1 | `AdAway.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/AdAway.apk.json) | 2026-10-24 |
 | 2 | `app.revanced.android.gms-240913008-signed.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/app.revanced.android.gms-240913008-signed.apk.json) | 2026-10-24 |
-| 3 | `AppGallery.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/AppGallery.apk.json) | 2026-10-24 |
+| 3 | `AppGallery.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/AppGallery.apk.json) | 2026-10-28 |
 | 4 | `ByeByeDPI.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/ByeByeDPI.apk.json) | 2026-10-27 |
 | 5 | `CamScanner.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/CamScanner.apk.json) | 2026-10-24 |
 | 6 | `default.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/default.apk.json) | 2026-10-24 |
@@ -31,7 +31,7 @@ Updated: `2026-10-28 01:10 UTC` | Total downloads: **10629**
 | 25 | `Perplexity.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/Perplexity.apk.json) | 2026-10-27 |
 | 26 | `RAR.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/RAR.apk.json) | 2026-10-28 |
 | 27 | `RBTVPLUS.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/RBTVPLUS.apk.json) | 2026-10-26 |
-| 28 | `RBTVPLUS.ATV.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/RBTVPLUS.ATV.apk.json) | 2026-10-13 |
+| 28 | `RBTVPLUS.ATV.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/RBTVPLUS.ATV.apk.json) | 2026-10-28 |
 | 29 | `RuStore.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/RuStore.apk.json) | 2026-10-24 |
 | 30 | `Rutube.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/Rutube.apk.json) | 2026-10-25 |
 | 31 | `RutubeTv.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/RutubeTv.apk.json) | 2026-10-26 |
