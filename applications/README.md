@@ -1,6 +1,6 @@
 # Applications — download stats
 
-Updated: `2026-11-02 09:27 UTC` | Total downloads: **10841**
+Updated: `2026-11-02 11:29 UTC` | Total downloads: **10842**
 
 | # | Application | Downloads | Last seen |
 |---|-------------|-----------|-----------|
@@ -53,4 +53,4 @@ Updated: `2026-11-02 09:27 UTC` | Total downloads: **10841**
 | 47 | `WB_clone_arm64-v8a.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/WB_clone_arm64-v8a.apk.json) | 2026-11-01 |
 | 48 | `X-plore.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/X-plore.apk.json) | 2026-10-26 |
 | 49 | `xManager.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/xManager.apk.json) | 2026-11-01 |
-| 50 | `yandex.mail.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/yandex.mail.apk.json) | 2026-11-01 |
+| 50 | `yandex.mail.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/yandex.mail.apk.json) | 2026-11-02 |
