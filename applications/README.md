@@ -1,6 +1,6 @@
 # Applications — download stats
 
-Updated: `2026-11-07 17:41 UTC` | Total downloads: **11037**
+Updated: `2026-11-07 18:42 UTC` | Total downloads: **11038**
 
 | # | Application | Downloads | Last seen |
 |---|-------------|-----------|-----------|
@@ -18,7 +18,7 @@ Updated: `2026-11-07 17:41 UTC` | Total downloads: **11037**
 | 12 | `Happ.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/Happ.apk.json) | 2026-11-04 |
 | 13 | `KION_ATV_arm7a.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/KION_ATV_arm7a.apk.json) | 2026-11-07 |
 | 14 | `LampaS.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/LampaS.apk.json) | 2026-11-06 |
-| 15 | `LiteHD.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/LiteHD.apk.json) | 2026-11-06 |
+| 15 | `LiteHD.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/LiteHD.apk.json) | 2026-11-07 |
 | 16 | `lmd.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/lmd.apk.json) | 2026-11-06 |
 | 17 | `Lucky.Patcher.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/Lucky.Patcher.apk.json) | 2026-11-06 |
 | 18 | `Magisk.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/Magisk.apk.json) | 2026-11-06 |
