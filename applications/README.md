@@ -1,6 +1,6 @@
 # Applications — download stats
 
-Updated: `2026-11-08 03:48 UTC` | Total downloads: **11043**
+Updated: `2026-11-08 07:49 UTC` | Total downloads: **11044**
 
 | # | Application | Downloads | Last seen |
 |---|-------------|-----------|-----------|
@@ -30,7 +30,7 @@ Updated: `2026-11-08 03:48 UTC` | Total downloads: **11043**
 | 24 | `NUM.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/NUM.apk.json) | 2026-11-07 |
 | 25 | `Ozon_clone_arm64-v8a.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/Ozon_clone_arm64-v8a.apk.json) | 2026-11-08 |
 | 26 | `pcradio.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/pcradio.apk.json) | 2026-11-04 |
-| 27 | `Perplexity.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/Perplexity.apk.json) | 2026-11-06 |
+| 27 | `Perplexity.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/Perplexity.apk.json) | 2026-11-08 |
 | 28 | `RAR.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/RAR.apk.json) | 2026-11-07 |
 | 29 | `RBTVPLUS.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/RBTVPLUS.apk.json) | 2026-11-06 |
 | 30 | `RBTVPLUS.ATV.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/RBTVPLUS.ATV.apk.json) | 2026-11-06 |
