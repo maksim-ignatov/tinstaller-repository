@@ -1,6 +1,6 @@
 # Applications — download stats
 
-Updated: `2026-11-11 06:16 UTC` | Total downloads: **11113**
+Updated: `2026-11-11 09:17 UTC` | Total downloads: **11116**
 
 | # | Application | Downloads | Last seen |
 |---|-------------|-----------|-----------|
@@ -41,7 +41,7 @@ Updated: `2026-11-11 06:16 UTC` | Total downloads: **11113**
 | 35 | `TInstaller.Clone.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/TInstaller.Clone.apk.json) | 2026-11-05 |
 | 36 | `tinstaller.clone.universal.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/tinstaller.clone.universal.apk.json) | 2026-11-08 |
 | 37 | `tinstaller.fork.universal.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/tinstaller.fork.universal.apk.json) | 2026-11-06 |
-| 38 | `TorrServe_MatriX.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/TorrServe_MatriX.apk.json) | 2026-11-09 |
+| 38 | `TorrServe_MatriX.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/TorrServe_MatriX.apk.json) | 2026-11-11 |
 | 39 | `Tricolor.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/Tricolor.apk.json) | 2026-11-06 |
 | 40 | `Truecaller.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/Truecaller.apk.json) | 2026-11-10 |
 | 41 | `tTorrent.apk` | ![downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/maksim-ignatov/tinstaller-repository/main/counts/tTorrent.apk.json) | 2026-11-08 |
